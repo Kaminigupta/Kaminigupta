@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Kaminigupta
+- 👀 I’m interested in Software development & working on frontend...
+- 🌱 I’m currently learning at Cimage professional college(Aryabhatt Knowledge University)...
+- 💞️ I’m looking to collaborate With Software Development Enterprises & with a intellectual Codder team Where i can learn much more...
+
+<!---
+Kaminigupta/Kaminigupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
